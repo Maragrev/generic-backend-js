@@ -1,0 +1,5 @@
+{
+  "QueryFailedError": {
+    "ER_NO_DEFAULT_FOR_FIELD": 400
+  }
+}
